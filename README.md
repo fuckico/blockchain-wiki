@@ -31,7 +31,7 @@
 ### EOS
 #### Dapp
 #### DPOS
-#### Web Assembly
+#### [Web Assembly(wasm)](http://webassembly.org/)
 
 ## 应用
 ### 以太坊
