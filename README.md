@@ -17,7 +17,7 @@
 
 ## 专业词汇
 ### [比特币(bitcoin)](https://bitcoin.org)
-#### [区块链(blockchain)]()
+#### [区块链(blockchain)](https://www.blockchain.com/)
 ##### 分布式账本Distributed ledger
 #### 双重支付问题double-spending problem
 #### PoW
