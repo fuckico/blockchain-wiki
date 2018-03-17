@@ -20,8 +20,16 @@
 #### [区块链(blockchain)](https://www.blockchain.com/)
 ##### 分布式账本Distributed ledger
 #### 双重支付问题double-spending problem
-#### PoW
+#### 哈希
+通过某种算法计算得出的值，该算法可唯一标识输入数据而不会泄露该数据的内容。哈希值用于确保区块链上数据的准确性。区块头部包含前一个区块的哈希，可以快速验证整个链的完整性。
+#### 共识算法
+在分布式账本中的节点中使用，并由区块链定义以确定区块链正确性的方法。最普遍的共识算法是“Pow（工作证明）”，“（Pos）股权证明”和“（DPoS）委托股权证明”。石墨烯采用委托股权证明。
+##### PoW(工作证明)
+一种共识算法，依靠计算难度的挑战来解决问题，以便找到新块的哈希。虽然计算得到新区块的难度很大，但其他节点验证新区块的难度很小，从而允许其他参与节点快速认同新区块的正确性。
+##### PoS（股权证明）
+一种基于节点的共识算法，节点持有可以参与区块链的股权。通过证明股权，区块可以更快地被添加到链中。
 #### 闪电网络
+
 
 ### [以太坊(ethereum)](https://ethereum.org)
 #### [An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
@@ -34,7 +42,10 @@
 #### [DAC(decentralized autonomous corporations)](https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274/)
 
 ### [EOS](https://eos.io)
-#### DPOS
+#### DPOS(委托股权证明)
+这是一种变化的股权证明算法，将创建块的责任委托给称为“证人”的第三方节点。
+#### 见证者节点
+DPoS区块链中的一个节点，负责执行创建新区块的任务。
 #### [Web Assembly(wasm)](http://webassembly.org/)
 
 ### QTUM
