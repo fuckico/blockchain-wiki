@@ -11,6 +11,7 @@
 - [项目](#项目)
 - [资料](#资料)
 - [应用](#应用)
+- [资源](#资源)
 
 ## 介绍
 ### 入门
@@ -62,13 +63,44 @@ DPoS区块链中的一个节点，负责执行创建新区块的任务。
 ##### [bitcoin pricetalk](https://webchat.freenode.net/?channels=#bitcoin-pricetalk&uio=d4)
 ##### [more](https://en.bitcoin.it/wiki/IRC_channels)
 
+#### 播客节目
+##### [The Bad Crypto Podcast](http://badcryptopodcast.com/)
+
 ## 应用
 ### 以太坊
 ### EOS
 #### Steemit
 #### Bitshares
+### 电子钱包
+#### [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
 
-## 工具
+
+## 资源
+### 新闻
+#### [Coindesk——提供有关区块链和加密货币的及时新闻资源](https://coindesk.com)
+#### [bitcoinmagazin——](https://bitcoinmagazine.com/)
+#### [巴比特——国内的资讯社区门户，为区块链创业者、投资者提供信息、交流与投融资服务。](http://www.8btc.com/)
+#### [火星财经——国内的区块链门户网站]（http://www.huoxing24.com/）
+### 交易所
+#### 美国
+##### [coinbase](https://coinbase.com)
+##### [bitfinex](https://www.bitfinex.com/)
+##### [bitstamp](https://www.bitstamp.net)
+#### 英国
+##### [cex](https://cex.io/)
+#### 日本
+##### [BitFlyer](https://bitflyer.com)
+##### [Quoine](http://quoine.com/)
+##### [coincheck](http://coincheck.com/)
+#### 国内
+##### [币安](https://binance.com)
+##### [火币](https://huobi.com)
+##### [okex](https://www.okex.com)
+
+### 加密货币价格的实时报价
+#### [对货币的价格进行实时跟踪](https://coinmarketshares.com)
+#### [查看加密货币的实时价格和总市值](https://prices.org/)
 ### [检查DApp的状态](https://www.stateofthedapps.com/)
+
 
 
