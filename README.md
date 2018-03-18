@@ -72,7 +72,16 @@ DPoS区块链中的一个节点，负责执行创建新区块的任务。
 #### Steemit
 #### Bitshares
 ### 电子钱包
-#### [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
+#### pc 端
+##### [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)
+##### [Electrum](https://electrum.org)
+##### [Rippex](https://rippex.net)
+##### [Exodus](https://www.exodus.io/)
+#### 移动端
+##### [Jaxx](https://jaxx.io)
+##### [bread wallet](https://breadapp.com/)
+#### 硬件——把用户的私钥存储在类似于usb设备中
+##### [trezor](https://trezor.io/)
 
 
 ## 资源
