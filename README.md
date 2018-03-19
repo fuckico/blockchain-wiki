@@ -90,7 +90,7 @@ DPoS区块链中的一个节点，负责执行创建新区块的任务。
 #### [Coindesk——提供有关区块链和加密货币的及时新闻资源](https://coindesk.com)
 #### [bitcoinmagazin——](https://bitcoinmagazine.com/)
 #### [巴比特——国内的资讯社区门户，为区块链创业者、投资者提供信息、交流与投融资服务。](http://www.8btc.com/)
-#### [火星财经——国内的区块链门户网站]（http://www.huoxing24.com/）
+#### [火星财经——国内的区块链门户网站](http://www.huoxing24.com/）
 ### 交易所
 #### 美国
 ##### [coinbase](https://coinbase.com)
