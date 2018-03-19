@@ -82,6 +82,7 @@ DPoS区块链中的一个节点，负责执行创建新区块的任务。
 ##### [bread wallet](https://breadapp.com/)
 #### 硬件——把用户的私钥存储在类似于usb设备中
 ##### [trezor](https://trezor.io/)
+##### [ledger nano](https://www.ledgerwallet.com)
 
 
 ## 资源
