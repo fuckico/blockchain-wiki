@@ -9,7 +9,6 @@
 - [专业词汇](#专业词汇)
 - [教程](#教程)
 - [项目](#项目)
-- [资料](#资料)
 - [应用](#应用)
 - [资源](#资源)
 
@@ -50,21 +49,6 @@ DPoS区块链中的一个节点，负责执行创建新区块的任务。
 #### [Web Assembly(wasm)](http://webassembly.org/)
 
 ### QTUM
-
-## 资料
-### 社区
-#### forums论坛
-##### [reddit](https://www.reddit.com/r/BitcoinBeginners/)
-##### [stackexchange](https://bitcoin.stackexchange.com/)
-##### [bitcointalk](https://bitcointalk.org/index.php?board=4.0)
-#### live chat
-##### [bitcoin core](https://webchat.freenode.net/?channels=bitcoin&uio=d4)
-##### [bitcoin mining](https://webchat.freenode.net/?channels=bitcoin-mining&uio=d4)
-##### [bitcoin pricetalk](https://webchat.freenode.net/?channels=#bitcoin-pricetalk&uio=d4)
-##### [more](https://en.bitcoin.it/wiki/IRC_channels)
-
-#### 播客节目
-##### [The Bad Crypto Podcast](http://badcryptopodcast.com/)
 
 ## 应用
 ### 以太坊
@@ -111,6 +95,20 @@ DPoS区块链中的一个节点，负责执行创建新区块的任务。
 #### [对货币的价格进行实时跟踪](https://coinmarketshares.com)
 #### [查看加密货币的实时价格和总市值](https://prices.org/)
 ### [检查DApp的状态](https://www.stateofthedapps.com/)
+
+### 社区
+#### forums论坛
+##### [reddit](https://www.reddit.com/r/BitcoinBeginners/)
+##### [stackexchange](https://bitcoin.stackexchange.com/)
+##### [bitcointalk](https://bitcointalk.org/index.php?board=4.0)
+#### live chat
+##### [bitcoin core](https://webchat.freenode.net/?channels=bitcoin&uio=d4)
+##### [bitcoin mining](https://webchat.freenode.net/?channels=bitcoin-mining&uio=d4)
+##### [bitcoin pricetalk](https://webchat.freenode.net/?channels=#bitcoin-pricetalk&uio=d4)
+##### [more](https://en.bitcoin.it/wiki/IRC_channels)
+
+#### 播客节目
+##### [The Bad Crypto Podcast](http://badcryptopodcast.com/)
 
 
 
