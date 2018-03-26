@@ -32,7 +32,7 @@
 
 ### 侧链:允许资产在比特币区块链和其它链之间互转。降低核心的区块链上发生交易的次数。
 #### [Blockstream](https://blockstream.com/)
-##### [liquid](https://blockstream.com/liquid/）
+##### [liquid](https://blockstream.com/liquid/)
 
 ### [以太坊(ethereum)](https://ethereum.org)
 #### [An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
