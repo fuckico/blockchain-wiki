@@ -28,8 +28,11 @@
 一种共识算法，依靠计算难度的挑战来解决问题，以便找到新块的哈希。虽然计算得到新区块的难度很大，但其他节点验证新区块的难度很小，从而允许其他参与节点快速认同新区块的正确性。
 ##### PoS（股权证明）
 一种基于节点的共识算法，节点持有可以参与区块链的股权。通过证明股权，区块可以更快地被添加到链中。
-#### 闪电网络
+#### [闪电网络](https://lightning.network/lightning-network-paper.pdf)
 
+### 侧链:允许资产在比特币区块链和其它链之间互转。降低核心的区块链上发生交易的次数。
+#### [Blockstream](https://blockstream.com/)
+##### [liquid](https://blockstream.com/liquid/）
 
 ### [以太坊(ethereum)](https://ethereum.org)
 #### [An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
