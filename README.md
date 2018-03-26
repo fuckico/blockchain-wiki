@@ -36,6 +36,8 @@
 
 ### [以太坊(ethereum)](https://ethereum.org)
 #### [An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+#### EVM: 以太坊虚拟机，轻量级虚拟机环境，是以太坊中智能合约的运行环境
+#### Gas: 燃料，每执行一条合约指令会消耗一定的燃料，当某个交易还未执行结束，而燃料消耗完时，合约执行终止并回滚状态。
 #### ERC20
 ##### [English](https://en.wikipedia.org/wiki/ERC20)
 ##### [中文](http://blog.csdn.net/diandianxiyu_geek/article/details/78082551)
